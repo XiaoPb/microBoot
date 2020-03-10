@@ -1,6 +1,6 @@
 # microBoot
 <p align="right"><font color=gray>作者：XiaoPb</font></p>
-[中文](README_zh.md)
+- [中文](README_zh.md)
 
 ``` c
 	The microBoot is Boot Loader of STM32 Series MCU.
